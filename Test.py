@@ -34,3 +34,8 @@ while (True):
         break
 cap.release()
 cv2.destroyAllWindows()
+
+a = 123
+b = 456
+cat = a+b
+print("Test the system for the Gitkraken", cat)
